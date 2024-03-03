@@ -1,0 +1,63 @@
+C:\Users\lolle\Source\Repos\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\lolle\Source\Repos\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolle\Source\Repos\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\lolle\Source\Repos\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\lolle\Source\Repos\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\lolle\source\repos\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\ApplicationCore.deps.json
+C:\Users\lolle\source\repos\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\ApplicationCore.dll
+C:\Users\lolle\source\repos\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Users\lolle\source\repos\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\Domain.dll
+C:\Users\lolle\source\repos\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\Domain.pdb
+C:\Users\lolle\source\repos\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CopyComplete
+C:\Users\lolle\source\repos\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.dll
+C:\Users\lolle\source\repos\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\refint\ApplicationCore.dll
+C:\Users\lolle\source\repos\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.pdb
+C:\Users\lolle\source\repos\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ref\ApplicationCore.dll
+C:\Users\lucas\source\repos\ActividadSeguridad\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\ApplicationCore.deps.json
+C:\Users\lucas\source\repos\ActividadSeguridad\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\ApplicationCore.dll
+C:\Users\lucas\source\repos\ActividadSeguridad\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Users\lucas\source\repos\ActividadSeguridad\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\Domain.dll
+C:\Users\lucas\source\repos\ActividadSeguridad\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\Domain.pdb
+C:\Users\lucas\source\repos\ActividadSeguridad\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\ActividadSeguridad\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ActividadSeguridad\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ActividadSeguridad\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ActividadSeguridad\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ActividadSeguridad\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.sourcelink.json
+C:\Users\lucas\source\repos\ActividadSeguridad\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\Applicat.71DDEAC9.Up2Date
+C:\Users\lucas\source\repos\ActividadSeguridad\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.dll
+C:\Users\lucas\source\repos\ActividadSeguridad\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\refint\ApplicationCore.dll
+C:\Users\lucas\source\repos\ActividadSeguridad\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.pdb
+C:\Users\lucas\source\repos\ActividadSeguridad\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ref\ApplicationCore.dll
+D:\Archivos\Universidad UT\8vo Cuatrimestre\Seguridad en el desarrollo de aplicaciones\Actividad-VSCode\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\ApplicationCore.deps.json
+D:\Archivos\Universidad UT\8vo Cuatrimestre\Seguridad en el desarrollo de aplicaciones\Actividad-VSCode\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\ApplicationCore.dll
+D:\Archivos\Universidad UT\8vo Cuatrimestre\Seguridad en el desarrollo de aplicaciones\Actividad-VSCode\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\ApplicationCore.pdb
+D:\Archivos\Universidad UT\8vo Cuatrimestre\Seguridad en el desarrollo de aplicaciones\Actividad-VSCode\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\Domain.dll
+D:\Archivos\Universidad UT\8vo Cuatrimestre\Seguridad en el desarrollo de aplicaciones\Actividad-VSCode\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\Domain.pdb
+D:\Archivos\Universidad UT\8vo Cuatrimestre\Seguridad en el desarrollo de aplicaciones\Actividad-VSCode\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.AssemblyReference.cache
+D:\Archivos\Universidad UT\8vo Cuatrimestre\Seguridad en el desarrollo de aplicaciones\Actividad-VSCode\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Universidad UT\8vo Cuatrimestre\Seguridad en el desarrollo de aplicaciones\Actividad-VSCode\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfoInputs.cache
+D:\Archivos\Universidad UT\8vo Cuatrimestre\Seguridad en el desarrollo de aplicaciones\Actividad-VSCode\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfo.cs
+D:\Archivos\Universidad UT\8vo Cuatrimestre\Seguridad en el desarrollo de aplicaciones\Actividad-VSCode\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Archivos\Universidad UT\8vo Cuatrimestre\Seguridad en el desarrollo de aplicaciones\Actividad-VSCode\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.sourcelink.json
+D:\Archivos\Universidad UT\8vo Cuatrimestre\Seguridad en el desarrollo de aplicaciones\Actividad-VSCode\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\Applicat.71DDEAC9.Up2Date
+D:\Archivos\Universidad UT\8vo Cuatrimestre\Seguridad en el desarrollo de aplicaciones\Actividad-VSCode\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.dll
+D:\Archivos\Universidad UT\8vo Cuatrimestre\Seguridad en el desarrollo de aplicaciones\Actividad-VSCode\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\refint\ApplicationCore.dll
+D:\Archivos\Universidad UT\8vo Cuatrimestre\Seguridad en el desarrollo de aplicaciones\Actividad-VSCode\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.pdb
+D:\Archivos\Universidad UT\8vo Cuatrimestre\Seguridad en el desarrollo de aplicaciones\Actividad-VSCode\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ref\ApplicationCore.dll
+C:\Users\Lalo\Documents\Seguridad_Informatica\seguridadInformatica\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\ApplicationCore.deps.json
+C:\Users\Lalo\Documents\Seguridad_Informatica\seguridadInformatica\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\ApplicationCore.dll
+C:\Users\Lalo\Documents\Seguridad_Informatica\seguridadInformatica\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Users\Lalo\Documents\Seguridad_Informatica\seguridadInformatica\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\Domain.dll
+C:\Users\Lalo\Documents\Seguridad_Informatica\seguridadInformatica\seguridadInformatica\src\ApplicationCore\bin\Debug\net6.0\Domain.pdb
+C:\Users\Lalo\Documents\Seguridad_Informatica\seguridadInformatica\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Lalo\Documents\Seguridad_Informatica\seguridadInformatica\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalo\Documents\Seguridad_Informatica\seguridadInformatica\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Lalo\Documents\Seguridad_Informatica\seguridadInformatica\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\Lalo\Documents\Seguridad_Informatica\seguridadInformatica\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Lalo\Documents\Seguridad_Informatica\seguridadInformatica\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.sourcelink.json
+C:\Users\Lalo\Documents\Seguridad_Informatica\seguridadInformatica\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\Applicat.71DDEAC9.Up2Date
+C:\Users\Lalo\Documents\Seguridad_Informatica\seguridadInformatica\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.dll
+C:\Users\Lalo\Documents\Seguridad_Informatica\seguridadInformatica\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\refint\ApplicationCore.dll
+C:\Users\Lalo\Documents\Seguridad_Informatica\seguridadInformatica\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ApplicationCore.pdb
+C:\Users\Lalo\Documents\Seguridad_Informatica\seguridadInformatica\seguridadInformatica\src\ApplicationCore\obj\Debug\net6.0\ref\ApplicationCore.dll
